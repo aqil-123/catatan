@@ -1,3 +1,4 @@
 mie
-tempe
 ayam
+soto
+coto
